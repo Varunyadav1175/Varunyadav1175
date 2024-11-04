@@ -1,39 +1,31 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<p align="center"><b> <img src="https://raw.githubusercontent.com/Ankitkj1999/Ankitkj1999/main/stuff/animated-git.gif"  width="35"/> </b></p>
+<p align="center"><b> Hey there! </b></p>
+<p align ="center"><h1 align="center">I Am Varun Yadav</h1></p>
+<p align ="center"><h4 align="center"> Student At Chandigarh University, A Full Stack Developer, A Technical Writer </h4></p>
 
-<!-- **varunyadav/varunyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# 💫 About Me:
+- 🔭 Currently working on getting myself interview ready!
+- 🌱 I'm learning data structures and algorithms along with React.js and Next.js for development!
+- 👯 Looking to collaborate on full-stack web projects.
+- 🤔 I'm looking for help with some of the intricate project ideas related to real-world problems.
+- 💬 Ask me about new tech and web development!
+- 📫 Reach me at [varunyadav.com](https://www.varunyadav.com/).
+- 📄 Read My Articles At [GeeksforGeeks](https://auth.geeksforgeeks.org/user/varun_yadav/articles).
+- 😄 Pronouns: He/His
+- ⚡  Fun fact: Still searching for the meaning of life!
 
-- 🎓 I'm a Computer Science & Engineering Senior at Chandigarh University
-<!-- - 🌱 I’m currently learning Computer Vision --> <!-- - 👯 I’m looking to collaborate on an App Development Project --> <!-- - 💻 I'm proficient in Python -->
-- ⚡ Interests: Software Development & Machine Learning 
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 💬 Let's connect!
-<br><br>
-   <a href="mailto:varunyadav1175@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>  <a href="https://www.linkedin.com/in/varun1175/" target="_blank" rel="noopener noreferrer"> 
-   <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=varunyadav1175&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=varunyadav1175&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varunyadav1175&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=varunyadav1175&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=varunyadav1175&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+---
 
-<!-- [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunyadav1175&theme=merko)](https://github.com/varunyadav1175/github-readme-stats) -->
-
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunyadav1175&layout=compact&theme=merko)](https://github.com/varunyadav1175/github-readme-stats) -->
-
-<!-- <table align='center'> -->
-<!--   <tr> -->
-<br>
-<!-- <h3 align="left">GitHub Stats:</h3>
-   <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=varunyadav1175&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aman Adatia" /> </td> -->
-<!--     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varunyadav1175&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aman Pankaj Adatia" />
-    </td>
-  </tr>
-</table> -->
-
-<!-- <div align="center"> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunyadav1175&theme=dark" alt="AMAN" /></p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+[![](https://visitcount.itsvg.in/api?id=varunyadav1175&icon=0&color=0)](https://visitcount.itsvg.in)
