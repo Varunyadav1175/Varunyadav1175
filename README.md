@@ -22,10 +22,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Varunyadav1175&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Varunyadav1175&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunyadav1175&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varunyadav1175&repo=zalon-b2b-admin)]
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=varun-zalon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Varunyadav1175&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
