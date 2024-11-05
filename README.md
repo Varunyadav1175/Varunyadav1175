@@ -1,5 +1,4 @@
-<div align="center">
-    Currently Vibing To
+&nbsp;<div align="center">
   [![Spotify](https://spotify-playing-three.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/5ppn3levcp58s0ueeuso089hx)
 </div>
 <p align ="center"><h1 align="center">I Am Varun Yadav</h1></p>
