@@ -1,6 +1,6 @@
-<a href="https://spotify-playing-three.vercel.app/api/spotify?open">
-    <img src="https://spotify-playing-three.vercel.app/api/spotify" width="256" height="64" alt="Now Playing">
-</a>
+&nbsp;<div align="center">
+  [![Spotify](https://spotify-playing-three.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/5ppn3levcp58s0ueeuso089hx)
+</div>
 <p align="center"><b> Hey there! </b></p>
 <p align ="center"><h1 align="center">I Am Varun Yadav</h1></p>
 <p align ="center"><h4 align="center">A Full Stack Developer</h4></p>
