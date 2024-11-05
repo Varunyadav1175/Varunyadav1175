@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-[![Spotify](https://spotify-readme-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/5ppn3levcp58s0ueeuso089hx)<br>
+[![Spotify](https://spotify-readme-gilt.vercel.app/api/spotify-readme)](https://open.spotify.com/user/5ppn3levcp58s0ueeuso089hx)<br>
 <p align="center"><b> Hey there! </b></p>
 <p align ="center"><h1 align="center">I Am Varun Yadav</h1></p>
 <p align ="center"><h4 align="center">A Full Stack Developer</h4></p>
