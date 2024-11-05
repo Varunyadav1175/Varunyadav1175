@@ -1,4 +1,4 @@
-[![Spotify](https://spotify-readme-gilt.vercel.app/api/spotify-playing)]
+![Spotify](https://spotify-readme-gilt.vercel.app/api/spotify-playing)
 <p align="center"><b> Hey there! </b></p>
 <p align ="center"><h1 align="center">I Am Varun Yadav</h1></p>
 <p align ="center"><h4 align="center">A Full Stack Developer</h4></p>
