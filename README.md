@@ -1,4 +1,4 @@
-<a href="https://now-playing-joshlmao.vercel.app/now-playing?open">
+<a href="https://spotify-readme-gilt.vercel.app/now-playing?open">
     <img src="https://spotify-readme-gilt.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 <p align="center"><b> Hey there! </b></p>
