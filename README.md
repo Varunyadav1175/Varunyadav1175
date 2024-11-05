@@ -19,7 +19,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Varunyadav1175&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varunyadav1175)](https://github.com/Varunyadav1175/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Varunyadav1175&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunyadav1175&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
