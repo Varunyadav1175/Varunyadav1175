@@ -24,7 +24,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Varunyadav1175&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Followers)
+![](https://github-profile-trophy.vercel.app/?username=Varunyadav1175&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Commits)
 
 ---
 
