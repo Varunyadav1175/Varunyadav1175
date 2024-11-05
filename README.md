@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<p align="center"><b> <img src="https://raw.githubusercontent.com/Ankitkj1999/Ankitkj1999/main/stuff/animated-git.gif"  width="35"/> </b></p>
+spotify-readme-gilt.vercel.app
 <p align="center"><b> Hey there! </b></p>
 <p align ="center"><h1 align="center">I Am Varun Yadav</h1></p>
 <p align ="center"><h4 align="center">A Full Stack Developer</h4></p>
