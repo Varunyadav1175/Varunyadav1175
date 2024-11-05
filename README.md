@@ -1,4 +1,6 @@
-![Spotify](https://spotify-readme-gilt.vercel.app/api/spotify-playing)
+<a href="https://now-playing-joshlmao.vercel.app/now-playing?open">
+    <img src="https://spotify-readme-gilt.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
 <p align="center"><b> Hey there! </b></p>
 <p align ="center"><h1 align="center">I Am Varun Yadav</h1></p>
 <p align ="center"><h4 align="center">A Full Stack Developer</h4></p>
