@@ -63,6 +63,7 @@
 ## ⏱️ Coding Activity
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=da3bb181-cf40-4401-b742-d8a05ca0bd2c)
+[![WakaTime](https://wakatime.com/badge/user/da3bb181-cf40-4401-b742-d8a05ca0bd2c.svg)](https://wakatime.com/@da3bb181-cf40-4401-b742-d8a05ca0bd2c)
 
 ---
 
@@ -75,8 +76,6 @@
 ## 🎧 Currently Vibing To
 
 [![Spotify](https://spotify-playing-three.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/5ppn3levcp58s0ueeuso089hx)
-
-[![WakaTime](https://wakatime.com/badge/user/da3bb181-cf40-4401-b742-d8a05ca0bd2c.svg)](https://wakatime.com/@da3bb181-cf40-4401-b742-d8a05ca0bd2c)
 
 ---
 
