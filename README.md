@@ -24,7 +24,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Varunyadav1175&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4&title=Commits)
 
 ---
-
+## 🎧 Vibing To
 &nbsp;<div align="center">
   [![Spotify](https://spotify-playing-three.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/5ppn3levcp58s0ueeuso089hx)
 </div>
