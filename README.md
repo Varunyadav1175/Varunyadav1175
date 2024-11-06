@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Varun Yadav
+<img src="/header.png">
 
 ### Full Stack Developer | Problem Solver | Tech Enthusiast
 
