@@ -36,6 +36,6 @@
 [![](https://wakatime.com/badge/user/da3bb181-cf40-4401-b742-d8a05ca0bd2c.svg)](https://wakatime.com/@da3bb181-cf40-4401-b742-d8a05ca0bd2c)
 
 ## You Are User No.
-<div align="center">
-![](https://profile-counter.glitch.me/Varunyadav1175/count.svg)
+&nbsp;<div align="center">
+[![Counter](https://profile-counter.glitch.me/Varunyadav1175/count.svg)]
 </div>
