@@ -13,7 +13,7 @@
 👯 Open to collaborate on full-stack web projects  
 🤔 Seeking help with real-world problem-solving projects  
 💬 Let's talk about new tech and web development!  
-📫 Reach me at [varunyadav.com](https://varunyadav.vercel.app)  
+📫 Reach me at [My Portfolio](https://varunyadav.vercel.app)  
 😄 Pronouns: He/His  
 ⚡ Fun fact: Still searching for the meaning of life!
 
