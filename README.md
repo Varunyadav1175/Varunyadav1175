@@ -45,10 +45,19 @@
 
 ## 📊 GitHub Analytics
 
+<table>
+  <tr>
+    <td>
       <img src="https://github-readme-stats-puce-phi.vercel.app/api?username=Varunyadav1175&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+    </td>
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunyadav1175&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-readme-stats-puce-phi.vercel.app/api/top-langs/?username=Varunyadav1175" alt="Top Languages" />
+
 
 ---
 
