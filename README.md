@@ -19,7 +19,7 @@
 ![](https://github-readme-stats-smoky-sigma-34.vercel.app/api?username=Varunyadav1175&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Varunyadav1175&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunyadav1175)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Varunyadav1175)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=da3bb181-cf40-4401-b742-d8a05ca0bd2c)
 
 
 ## 🏆 GitHub Trophies
@@ -31,4 +31,5 @@
   [![Spotify](https://spotify-playing-three.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/5ppn3levcp58s0ueeuso089hx)
 </div>
 
+[![](https://wakatime.com/badge/user/da3bb181-cf40-4401-b742-d8a05ca0bd2c.svg)](https://wakatime.com/@da3bb181-cf40-4401-b742-d8a05ca0bd2c)
 [![](https://visitcount.itsvg.in/api?id=varun-zalon&icon=0&color=0)](https://visitcount.itsvg.in)
