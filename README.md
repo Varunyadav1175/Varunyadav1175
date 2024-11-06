@@ -37,5 +37,5 @@
 
 ## You Are User No.
 &nbsp;<div align="center">
-[![Counter](https://profile-counter.glitch.me/Varunyadav1175/count.svg)]
+![Counter](https://profile-counter.glitch.me/Varunyadav1175/count.svg)
 </div>
