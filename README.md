@@ -19,6 +19,8 @@
 ![](https://github-readme-stats-smoky-sigma-34.vercel.app/api?username=Varunyadav1175&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Varunyadav1175&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunyadav1175)
+
+# ⏱️ Coding Stats:
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=da3bb181-cf40-4401-b742-d8a05ca0bd2c)
 
 
