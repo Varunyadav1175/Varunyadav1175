@@ -34,4 +34,8 @@
 </div>
 
 [![](https://wakatime.com/badge/user/da3bb181-cf40-4401-b742-d8a05ca0bd2c.svg)](https://wakatime.com/@da3bb181-cf40-4401-b742-d8a05ca0bd2c)
-[![](https://visitcount.itsvg.in/api?id=varun-zalon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## You Are User No.
+<div align="center">
+![](https://profile-counter.glitch.me/Varunyadav1175/count.svg)
+</div>
