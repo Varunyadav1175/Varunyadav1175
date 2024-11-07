@@ -1,7 +1,7 @@
 <div align="center">
   
 <p align="center">
-  <img width="250" src="/Hello Varun Yadav Full Stack Developer.gif">
+  <img width="1000" src="/Hello Varun Yadav Full Stack Developer.gif">
 </p>
 
 ### Full Stack Developer | Problem Solver | Tech Enthusiast
