@@ -101,9 +101,9 @@
 ---
 
 ## 🏆 GitHub Trophies
-
+<p align="center">
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Varunyadav1175&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4&title=Commits)
-
+</p>
 ---
 
 ## 🎧 Busy coding & Vibing to :
