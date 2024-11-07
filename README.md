@@ -11,9 +11,9 @@
 ## 💫 About Me
   <img width="50" src="/output-onlinegiftools.gif">
 
-🔭 Currently focusing on getting interview ready  
-🌱 Learning DSA, React.js, and Next.js  
-👯 Open to collaborate on full-stack web projects  
+🔭 Currently focusing on Growing and Learning  
+🌱 Full Stack Developer with DevOps (MERN/MEAN Stack)
+👯 Open to collaborate on Full-Stack Web projects  
 🤔 Seeking help with real-world problem-solving projects  
 💬 Let's talk about new tech and web development!  
 📫 Reach me at [My Portfolio](https://varunyadav.vercel.app)  
