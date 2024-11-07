@@ -1,6 +1,8 @@
 <div align="center">
   
-<img src="/header.png">
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 ### Full Stack Developer | Problem Solver | Tech Enthusiast
 
