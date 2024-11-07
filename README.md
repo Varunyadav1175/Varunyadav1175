@@ -9,6 +9,9 @@
 ---
 
 ## 💫 About Me
+<p align="center">
+  <img width="50" src="/output-onlinegiftools.gif">
+</p>
 
 🔭 Currently focusing on getting interview ready  
 🌱 Learning DSA, React.js, and Next.js  
