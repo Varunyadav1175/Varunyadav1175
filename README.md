@@ -84,11 +84,7 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-puce-phi.vercel.app/api?username=Varunyadav1175&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varunyadav1175&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats-puce-phi.vercel.app/api/top-langs/?username=Varunyadav1175)
 
 ---
 
